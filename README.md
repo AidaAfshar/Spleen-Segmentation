@@ -1,8 +1,7 @@
 # Spleen-Segmentation
 3D &amp; 2D Segmentation for Medical Decathlon Spleen Dataset <br />
-<img align="center">
-![Spleen](http://medicaldecathlon.com/img/spleen0.png) <br />
-<img />
+<img align="center", href = "http://medicaldecathlon.com/img/spleen0.png")><img /> <br />
+
 
 Target: Spleen <br />
 Modality: CT  <br />
