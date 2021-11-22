@@ -1,6 +1,6 @@
 # Spleen-Segmentation
 3D &amp; 2D Segmentation for Medical Decathlon Spleen Dataset <br />
-<img align="center", href = "http://medicaldecathlon.com/img/spleen0.png"></img> <br />
+<img  href = "http://medicaldecathlon.com/img/spleen0.png"  align="center"></img> <br />
 
 
 Target: Spleen <br />
