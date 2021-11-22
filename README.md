@@ -1,7 +1,7 @@
 # Spleen-Segmentation
 3D &amp; 2D Segmentation for Medical Decathlon Spleen Dataset <br />
-<p align="center">
 ![Spleen](http://medicaldecathlon.com/img/spleen0.png) <br />
+<p align="center">
 Target: Spleen <br />
 Modality: CT  <br />
 Size: 61 3D volumes (41 Training + 20 Testing) <br />
@@ -22,7 +22,7 @@ Results : <br />
 
 
 Visualisation : <br />
-![Vis](https://drive.google.com/file/d/18ewaGDqPjVzrU6tvS6iMGim_cCZ9Z7a5/view?usp=sharing)
+![Vis](https://ibb.co/hM8LYc4)
 
 
 
