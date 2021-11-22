@@ -1,14 +1,15 @@
 # Spleen-Segmentation
 3D &amp; 2D Segmentation for Medical Decathlon Spleen Dataset <br />
+<img align="center">
 ![Spleen](http://medicaldecathlon.com/img/spleen0.png) <br />
-<p align="center">
+<img />
+
 Target: Spleen <br />
 Modality: CT  <br />
 Size: 61 3D volumes (41 Training + 20 Testing) <br />
 Source: Memorial Sloan Kettering Cancer Center <br />
 Challenge: Large ranging foreground size <br />
 Link to Dataset : https://goo.gl/QzVZcm <br /><br />
-<p />
 
 Results : <br />
 2D Segmentation (Best mean dice) : 96.03 % <br />
@@ -22,7 +23,7 @@ Results : <br />
 
 
 Visualisation : <br />
-![Vis](https://ibb.co/hM8LYc4)
+![Vis](<a href="https://ibb.co/hM8LYc4"><img src="https://i.ibb.co/mBzbN02/merge-from-ofoct-up.jpg" alt="merge-from-ofoct-up" border="0"></a>)
 
 
 
